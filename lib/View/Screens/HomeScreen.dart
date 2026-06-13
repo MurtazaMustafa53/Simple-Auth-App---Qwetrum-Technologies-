@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:simpleapp/Model/CustomButton.dart';
 import 'package:simpleapp/View/Screens/countryListScreen.dart';
 
 class Homescreen extends StatefulWidget {
